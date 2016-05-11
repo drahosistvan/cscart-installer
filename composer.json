@@ -3,9 +3,9 @@
     "description": "Command line installer for CS-Cart",
     "keywords": ["cscart", "cs-cart"],
     "require": {
-        "symfony/console": "^3.0",
-        "symfony/process": "^3.0",
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "~4.0|~5.0|~6.0",
+        "symfony/console": "~2.3|~3.0",
+        "symfony/process": "~2.3|~3.0"
     },
     "license": "MIT",
     "authors": [
