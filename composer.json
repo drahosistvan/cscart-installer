@@ -1,7 +1,7 @@
 {
     "name": "isti/cscart-installer",
     "description": "Command line installer for CS-Cart",
-    "keywords": ["cscart, cs-cart"],
+    "keywords": ["cscart", "cs-cart"],
     "require": {
         "symfony/console": "^3.0",
         "symfony/process": "^3.0",
